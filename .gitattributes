@@ -1,0 +1,2 @@
+# Keep every file byte-exact: the solver engine is verified by SHA-256 at import.
+* -text
