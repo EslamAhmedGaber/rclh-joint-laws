@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+output/
+law_study/results/fig_cell.npz
+law_study/results/run.log

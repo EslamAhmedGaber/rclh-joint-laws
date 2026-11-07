@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "rclh-joint-laws: code and data for 'Joint laws from one coefficient solve'"
+type: software
+version: 1.0.0
+date-released: 2026-11-07
+authors:
+  - family-names: Ahmed
+    given-names: Eslam
+    affiliation: "Department of Engineering Mathematics and Physics, Faculty of Engineering, Cairo University"
+  - family-names: El-Beltagy
+    given-names: Mohamed A.
+    affiliation: "Department of Engineering Mathematics and Physics, Faculty of Engineering, Cairo University"
+  - family-names: Etman
+    given-names: Ahmed
+    affiliation: "Department of Engineering Mathematics and Physics, Faculty of Engineering, Cairo University"
+  - family-names: Elnady
+    given-names: Sroor M.
+    affiliation: "School of Aeronautics and Astronautics, Zhejiang University"
+preferred-citation:
+  type: article
+  title: "Joint laws from one coefficient solve: a residual-covariance Lawson–Hermite solver for nonlinear Wick–Itô–Skorohod equations driven by fractional Brownian motion"
+  authors:
+    - family-names: Ahmed
+      given-names: Eslam
+    - family-names: El-Beltagy
+      given-names: Mohamed A.
+    - family-names: Etman
+      given-names: Ahmed
+    - family-names: Elnady
+      given-names: Sroor M.
+  journal: "Communications in Nonlinear Science and Numerical Simulation"
+  status: submitted
