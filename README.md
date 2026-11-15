@@ -14,10 +14,9 @@ The manuscript is formatted for Numerical Algorithms and prepared for author rev
 - [Online Resource 2: complete code and data](https://github.com/EslamAhmedGaber/rclh-joint-laws/releases/download/v17-2026-11-15/ESM_2.zip)
 
 This edition uses the verified v17 numerical results. It has seven scientific figures,
-compact captions and explanation in the main text. The previous conceptual schematic
-has been removed. The journal edition and the saved original are separately identified.
+compact captions and explanation in the main text. Both manuscript editions now start their figure sequence with the driver study. The journal edition and the saved original are separately identified.
 
-## Preserved original v17
+## Original v17 with the schematic removed
 
 - [Original one-column manuscript, 27 pages](paper/v17/Manuscript.pdf)
 - [Original two-column manuscript, 21 pages](paper/v17/Manuscript_twocolumn.pdf)

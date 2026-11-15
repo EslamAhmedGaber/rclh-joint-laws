@@ -1,18 +1,18 @@
 {
   "Manuscript.pdf": {
-    "bytes": 573872,
-    "sha256": "098d60c10c98097317c335af623fd37d4509a33adbd5505b1cd91cd6d3ecc6f3"
+    "bytes": 543576,
+    "sha256": "0c118f780048daeaae06c2b7be9887c993597f9ac2e85ba741767496d88950e3"
   },
   "Manuscript_twocolumn.pdf": {
-    "bytes": 576405,
-    "sha256": "a8fcc91e814784a0ccf7e0ffb9c5da553d2997a52436d5a7f0f5c1ca81430855"
+    "bytes": 546587,
+    "sha256": "08668d60d721ae82daa33936716dbcb20731d9106099eb277e3c1fc422c6ab70"
   },
   "Supplementary_material.pdf": {
     "bytes": 176032,
-    "sha256": "81511fb8866810a6f9f62b33a64d88e7b5ebbb6ab1ff942d4a2253098b5453ac"
+    "sha256": "bf423dafc5755b3766ccb904303bbca853fd61d228c625ae2739aca801a33f96"
   },
   "Manuscript_sources.zip": {
-    "bytes": 647449,
-    "sha256": "bbe2c5394cb0e45c2acb9ca3c70d6c948cee960f944941ec2fa8f506169b360d"
+    "bytes": 587132,
+    "sha256": "2db03c4270a1ea39e4a798e6909739e5dbb16d92781bcd8f96ac8de3f58cb4bc"
   }
 }
