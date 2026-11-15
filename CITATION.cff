@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the article."
-title: "rclh-joint-laws: code and data for 'Joint laws from one coefficient solve'"
+title: "Residual-covariance Lawson–Hermite solver — v17 code and data"
 type: software
-version: 1.0.0
-date-released: 2026-11-07
+version: "17.0.0"
+date-released: 2026-11-15
 authors:
   - family-names: Ahmed
     given-names: Eslam
@@ -19,7 +19,7 @@ authors:
     affiliation: "School of Aeronautics and Astronautics, Zhejiang University"
 preferred-citation:
   type: article
-  title: "Joint laws from one coefficient solve: a residual-covariance Lawson–Hermite solver for nonlinear Wick–Itô–Skorohod equations driven by fractional Brownian motion"
+  title: "Residual-covariance Lawson–Hermite approximation of joint laws for nonlinear fractional Wick–Itô–Skorohod equations"
   authors:
     - family-names: Ahmed
       given-names: Eslam
@@ -29,5 +29,3 @@ preferred-citation:
       given-names: Ahmed
     - family-names: Elnady
       given-names: Sroor M.
-  journal: "Communications in Nonlinear Science and Numerical Simulation"
-  status: submitted

@@ -1,0 +1,38 @@
+{
+  "Original_Manuscript.pdf": {
+    "bytes": 573872,
+    "sha256": "098d60c10c98097317c335af623fd37d4509a33adbd5505b1cd91cd6d3ecc6f3"
+  },
+  "Original_Manuscript_twocolumn.pdf": {
+    "bytes": 576405,
+    "sha256": "a8fcc91e814784a0ccf7e0ffb9c5da553d2997a52436d5a7f0f5c1ca81430855"
+  },
+  "Original_Supplementary_material.pdf": {
+    "bytes": 176032,
+    "sha256": "81511fb8866810a6f9f62b33a64d88e7b5ebbb6ab1ff942d4a2253098b5453ac"
+  },
+  "Original_Manuscript_sources.zip": {
+    "bytes": 647449,
+    "sha256": "bbe2c5394cb0e45c2acb9ca3c70d6c948cee960f944941ec2fa8f506169b360d"
+  },
+  "Numerical_Algorithms_Manuscript.pdf": {
+    "bytes": 1035066,
+    "sha256": "316c487f2bfe6a7f1ccf287e735a35a508df85d8115ce8fe0e6484a781b2d569"
+  },
+  "Numerical_Algorithms_Manuscript_sources.zip": {
+    "bytes": 943165,
+    "sha256": "0e60e38c1eafb53ad76b376f85cfdd198541d7ccfb532a6a802c09653829c9ac"
+  },
+  "ESM_1.pdf": {
+    "bytes": 177777,
+    "sha256": "5605213c6a06306e5d0a0fea64d5f42e12be91dc408f5d995a8cadcda99dd1b6"
+  },
+  "ESM_1_sources.zip": {
+    "bytes": 80254,
+    "sha256": "fa1daaa218a73c05ceaf2ac31ef62646f29f4ad6d5947f84cadb9741b176a261"
+  },
+  "ESM_2.zip": {
+    "bytes": 604848843,
+    "sha256": "8ef5718b528214073a7d194ed07c35a36cdb3b3a51442bc9f3f6613a0eacb530"
+  }
+}
